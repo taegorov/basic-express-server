@@ -17,4 +17,4 @@ Build an express server conforming to best industry practices.
 
 ## URLs
 
-[Deployed page here](https://timegorov-server-deploy-prod.herokuapp.com/)
+[Deployed page here](https://timegorov-basic-express-server.herokuapp.com)
